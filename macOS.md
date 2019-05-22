@@ -143,6 +143,7 @@ UI 漂亮，没广告，消息推送，私信，发图发视频，微博功能�
 - [**Paw**](https://paw.cloud/)，请求模拟，前后端联调时我会用这个先走一遍
 - [**Github Desktop**](https://github.com/desktop/desktop)，管理 github 仓库的变更和 PR，代替了 SourceTree 的部分工作，可以方便地把别人的 PR checkout 到本地验证
 - [**Gas Mask**](https://github.com/2ndalpha/gasmask) ，Hosts 管理
+- [**SwitchHosts! **](https://github.com/oldj/SwitchHosts/releases)，Hosts 管理
 - [**ColorSnapper2**](https://colorsnapper.com/)，取色工具
 - [**Charles**](https://www.charlesproxy.com/)，抓包用，支持 https
 - [**Google Chrome**](https://www.google.com/chrome/) + [**Google Chrome Canary**](https://www.google.com/chrome/canary/) + [**Firefox**](https://www.mozilla.org/en-US/firefox/new/) + **Safari**，浏览器，调试用，IE 的测试会借助内网的云测平台
