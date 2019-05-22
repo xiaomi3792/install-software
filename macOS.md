@@ -61,6 +61,8 @@ macOS 上的格式工厂。
 
 6. CoconutBattery
 
+url:https://www.coconut-flavour.com/coconutbattery/
+
 关于电池的一切，别说话，问它。
 
 iOS 和 Mac 都可以用它查电池信息，循环次数这些都是小问题，只要关于电池的信息，它都有，而且免费还没广告，感动哭了。
